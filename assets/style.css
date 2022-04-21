@@ -80,3 +80,9 @@ footer{
 footer a{
    color: #000;
 }
+
+@media (max-width:450px){
+   img{
+      width: 300px;
+   }
+}
